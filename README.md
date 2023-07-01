@@ -36,7 +36,7 @@ U7P4L IN
 ```
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/PAID/blob/main/IMG_20230312_210740.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/PAID/blob/main/IMG_20230701_164848.jpg">
 
 
 #### Tools Languages :
