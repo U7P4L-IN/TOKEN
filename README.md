@@ -46,12 +46,12 @@ git clone --depth=1 https://github.com/U7P4L-IN/TOKEN.git
 cd TOKEN
 python main.py
 ```
-<p align="center"><img src="./Image/carbon.png">
+<p align="center"><img src="./image/carbon.png">
 
 <h5 align="center"><b>TERMUX</b></h5>
 
-<p align="center"><img src="./Image/demo1.jpg">
-<p align="center";><img src="./Image/demo2.jpg"> 
+<p align="center"><img src="./image/demo1.jpg">
+<p align="center";><img src="./image/demo2.jpg"> 
 
 
 # Report bugs
@@ -84,9 +84,9 @@ sudo python3 main.py
 ```
 <h5 align="center"><b>KALI LINUX</b></h5>
 
-<p align="center"><img src="./Image/demo3.png">
-<p align="center"><img src="./Image/demo4.png">
-<p align="center"><img src="./Image/demo5.png">
+<p align="center"><img src="./image/demo3.png">
+<p align="center"><img src="./image/demo4.png">
+<p align="center"><img src="./image/demo5.png">
     
 </br>
 
