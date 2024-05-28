@@ -86,8 +86,7 @@ sudo python3 main.py
 
 <p align="center"><img src="./image/demo3.png">
 <p align="center"><img src="./image/demo4.png">
-<p align="center"><img src="./image/demo5.png">
-    
+  
 </br>
 
 <p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
